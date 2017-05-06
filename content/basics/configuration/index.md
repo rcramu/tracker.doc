@@ -26,10 +26,6 @@ On top of [Hugo global configuration](https://gohugo.io/overview/configuration/)
   search = false
 ```
 
-{{% notice tip %}}
-Assets are based on the `baseurl` of the site. So, don't forget to configure yours in the `config.toml` file. Absolutely needed for Github pages like http://userid.github.io/project.
-{{% /notice %}}
-
 ## Style customization
 
 **Hugo-theme-learn** has been built to be as configurable as possible by defining multiple [partials](https://gohugo.io/templates/partials/)

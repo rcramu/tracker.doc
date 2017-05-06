@@ -23,9 +23,6 @@ Organize your site like [any other Hugo project](https://gohugo.io/content/organ
         |   └── index.md        <- http://example.com/is/
         └── ned-stark.md        <- http://example.com/ned-stark/
 
-{{% notice warning %}}
-At that time, **Hugo-theme-learn** supports **only one level** inside a chapter. So you **can't** have http://example.com/chapter1/chapter1.1/page
-{{% /notice %}}
 
 ## Types
 
