@@ -1,4 +1,4 @@
-baseurl = "https://tracker.learn.cisco/"
+baseurl = "http://hostlocal.io:1313/"
 languageCode = "en-us"
 title = "Tracker Docs"
 theme = "hugo-theme-learn"
