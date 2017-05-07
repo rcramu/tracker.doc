@@ -8,4 +8,4 @@ icon: "<b>1. </b>"
 
 # Basics
 
-Discover what this Hugo theme is all about and the core-concepts behind it.
+Discover about Tracker Aggregator App  and  core-concepts behind it.
