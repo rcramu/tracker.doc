@@ -5,7 +5,7 @@ theme = "hugo-theme-learn"
 MetaDataFormat = "yaml"
 
 [params]
-  editURL = "https://github.com/rajasoun/tracker.doc/docs/tracker/edit/master/content/"
+  editURL = "https://github.com/rajasoun/tracker.doc/tree/master/content"
   description = "Documentation for Tracker"
   author = "Raja. S"
   autoNav = true
